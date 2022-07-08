@@ -1,0 +1,56 @@
+body {
+  background: linear-gradient(45deg, red, blue);
+}
+.card{
+      border: 2px solid #fff;
+  border-radius: 2px;
+  height: 445px;
+
+}
+#bmain{
+    height: 0;
+    width: 0;
+    background-color: darkblue;
+    height: auto;
+    justify-content: center;
+}
+#banner{
+    color: tomato;
+   justify-content: center;
+ 
+
+
+}
+#banner:hover{
+    color: white;
+
+}
+h5{
+    padding: 10px;
+    cursor: pointer;
+    
+}
+
+h5:hover{
+     color: white;
+     cursor: pointer;
+
+}
+h1{
+    color: gold;
+    cursor: pointer;
+}
+h1:hover{
+     color: white;
+     cursor: pointer;
+
+}
+#honor{
+    color: black;
+    padding: 1px;
+    margin: 1px;
+}
+
+p{
+    padding-left: 10px;
+}
